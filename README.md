@@ -5,7 +5,7 @@ Linux I3 rice
 ## Installation process
 sudo apt install i3 feh rofi kitty
 
-#For a transparent background with i3lock
+### For a transparent background with i3lock
 sudo apt install scrot imagemagick
 
 
