@@ -8,6 +8,9 @@ sudo apt install i3 feh rofi kitty
 ### For a transparent background with i3lock
 sudo apt install scrot imagemagick
 
+### For a transparent terminal
+sudo apt install picom
+
 
 ## Config files
 To alter the config files, modify them with your favorite text editor
